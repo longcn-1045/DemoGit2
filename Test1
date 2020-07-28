@@ -2,3 +2,8 @@ Xem noi dung thay doi: git show
 Xoa tep: git rm --cached foo.txt
 Xem nhat ky thao tac: git reflog
 Chi dinh tep roi xem nhat ky: git log filename
+
+Xem noi dung thay doi: git show
+Xoa tep: git rm --cached foo.txt
+Xem nhat ky thao tac: git reflog
+Chi dinh tep roi xem nhat ky: git log filename
